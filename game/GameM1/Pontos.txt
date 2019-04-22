@@ -1,0 +1,16 @@
+score;wave
+23;2
+score;wave
+6;2
+score;wave
+33;6
+score;wave
+64;13
+score;wave
+88;11
+score;wave
+88;22
+score;wave
+18;2
+score;wave
+158;11
